@@ -1,3 +1,6 @@
-# My Awesome Book
+# React Express Mysql 搭建文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### 该文档包含前端和后端的搭建
+
+
+
